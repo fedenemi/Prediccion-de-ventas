@@ -1,1 +1,1 @@
-# Prediccion-de-ventas
+Esta notebook presenta el análisis y desarrollo de modelos predictivos para las ventas mensuales de la empresa de software 1C Company en Rusia, en el marco de una competencia de Kaggle. El objetivo principal es predecir las ventas del próximo mes utilizando datos históricos de ventas diarias, donde se busca minimizar el RMSE. Para esto se realizó un proceso de selección y preparación de datos, construcción de modelos y evaluación de su rendimiento.
